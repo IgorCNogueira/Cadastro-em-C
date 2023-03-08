@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-#define LINHAS 5  //Constante para Linhas da Matriz 'nome'
-#define CARACTERES 200  //Constante para Colunas da Matriz 'nome'
+#define LINHAS 5
+#define CARACTERES 200
 
 int id[LINHAS];   //Vetor
 char nome[LINHAS][CARACTERES];   //Matriz 5x200
